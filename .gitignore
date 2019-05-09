@@ -2,7 +2,9 @@ HELP.md
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
-/build_packageNpmApp
+npm-app/build_packageNpmApp
+npm-app/build/
+java-app/build/
 
 ### STS ###
 .apt_generated
